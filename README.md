@@ -11,6 +11,8 @@ Goal
 To provide strategic, data-driven insights into market trends, pricing dynamics, buyer preferences, and model popularity within the Nigerian automotive sector.
 
 Final Dashboard Visualizations
+**Dashboard Visual:**
+![ Dashboard view](car2.JPG)
 
 The dashboard provides a consistent view across four main states, accessible via interactive filters (not shown here, but implemented in the Excel file):
 View	Screenshot	Key Insight Highlighted
